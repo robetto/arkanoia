@@ -1,4 +1,4 @@
-The Rainbow and the unicorn
+The Rainbow and the unicorn and the pny
 
 Purple
 Pink
@@ -7,7 +7,9 @@ Blue
 Green
 Indigo
 Unicorn
+Pony
 Yellow
 Red
 These are the colors of my rainbow.
 And the unicorn.
+And the Pony.
